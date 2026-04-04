@@ -123,7 +123,8 @@ http://localhost:3002
 
 - Better UI/UX  
 - More accurate scoring system  
-- Integration with job descriptions  
+- Integration with job descriptions
+- Storing profiles
 
 
 ---
